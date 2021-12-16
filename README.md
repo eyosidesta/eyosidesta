@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer!!
 
-- 🔭 I’m currently working as a Full Stack Developer
+- 🔭 I’m currently working as a Full Stack Engineer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on open source projects.
 <br />
@@ -30,7 +30,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=reactnative)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react-native)&nbsp;
 ![Vuetify](https://img.shields.io/badge/-Vuetify-05122A?style=flat&logo=vuetify)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular%20-%23013243.svg?&style=flat&logo=angular&logoColor=red)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
